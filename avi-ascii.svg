@@ -1,0 +1,390 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 1242" width="740" height="1242">
+  <style>
+    .ascii-text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 11px;
+      font-weight: bold;
+      fill: #8b949e;
+      white-space: pre;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="#0d1117" rx="6" />
+  <g transform="translate(10, 15)">
+    <text x="0" y="0.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="13.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.04s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="26.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="39.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%s#%%%#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="52.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=               :c%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="65.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%css#s- :                   .+%%@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="78.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#--+==-:` ::-.`:`  `   :```        :%@@@@@@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="91.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.28s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%+-.::--::....`.:-`-``. . .    `::`.   `   `s%@@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="104.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=:-``..`   :`..  .. :::-+-. ...    :`:.   .   .c@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="117.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#::=-`:.:..::`  .`---:=:.`--.+-.        ..  .      .@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="130.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@%+.``:`=- :::`:   :=:-::`.==.-:`.`-- .                  c@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="143.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.44s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@#-`::--`..    `` -`-   .  `-:--:..:.-`:                    +@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="156.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@%:=`...`:`.. :   . :..:...  .:. -=:` ` ``. .                   :@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="169.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@%+`.`:`:``..   . . .:``. . .`...=:. =.:  .. `                     c@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="182.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@c-:..:-`. .     .` `:=`-``::... ..``.`+.            .               %@@@@@@@@@@@@
+    </text>
+    <text x="0" y="195.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@c-``-.         .::---+++*+===-=--=:::` -: .       .                  .@@@@@@@@@@@@
+    </text>
+    <text x="0" y="208.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@%-`.` .      .:=+=+*+*cssss#csc=*+*+-=-..- .                           :@@@@@@@@@@@
+    </text>
+    <text x="0" y="221.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.68s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@+:.-        .=*ccc#s##%####scc**c**+++-` :. .                          .%@@@@@@@@@@
+    </text>
+    <text x="0" y="234.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@%:  `        =*css#s%%%%%%%sscccc*++++==-` =                            `@@@@@@@@@@@
+    </text>
+    <text x="0" y="247.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.76s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@=`.`.  .    -+*cs##ss#######ssc***++++*=-`... .                         `@@@@@@@@@@@
+    </text>
+    <text x="0" y="260.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@- .`        =*ccs#s##%%%s#ss##c*c++++++--`.                             :@@@@@@@@@@@
+    </text>
+    <text x="0" y="273.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@: .        .+*csss###%%#%#%ss#cc*+*++==-:.`                             %@@@@@@@@@@@
+    </text>
+    <text x="0" y="286.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.88s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@= .        :+*c#s####%#s#%##ssc*c*++===:`.. .                          :@@@@@@@@@@@@
+    </text>
+    <text x="0" y="299.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@:. .      :*css#%######%%%s#s*ccc**+=-:`....  .                       :@@@@@@@@@@@@
+    </text>
+    <text x="0" y="312.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@:        -*cs#####%%%%##ssc*++=+==:-=-:..                       .    `@@@@@@@@@@@@
+    </text>
+    <text x="0" y="325.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@%        =+*+***##s#sc*+::``   ..`.     .....                 .      s@@@@@@@@@@@@
+    </text>
+    <text x="0" y="338.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@`       ``:.`:=++***==:``.   .:::`.....     ..                .    :@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="351.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@..     :::`..`:-==-::`.  ..     ``:``......`...          .    .   #@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="364.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@s.     -:    `::*c*-`...`` = .:=`.  .``:`````...    ...       . :@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="377.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.16s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@*s:   ..``.`*+=+%s*:`:=*#s+s+++-::=+=+=-:-:````.   ....     .` c@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="390.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@%%%---===+c#%c+---+*s#ssc*c***cc*+==-::````.   ....    .` :@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="403.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.24s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@++++**cc%#*=-=:+*ss%#sss###ssc*+---````........   ``..`%@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="416.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.28s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@%*cc*csss%s+-----=s#%%##%%##sc*+=-::```......... .-`.``%@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="429.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.32s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@csss##s%#c+-```.-*s%%%###sscc*+=-:``..........  ..`-:@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="442.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.36s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@+css###%#c+-:+*=.-s#%####ssc**=-:``.......... .`:::.%@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="455.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.40s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*cs#cs#c+::-==`. +s###sscc**=-:```.......... ...  =@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="468.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%csss-=-.     .  =c###scc**==-:`................  %@@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="481.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.48s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+css#s++=```:-++csssscc*++=-:``........... ...    -@@@@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="494.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.52s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*cs#cssccc**ccc*cc*****+==`:``...... ..  ..... :   .%@@@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="507.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.56s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@**c#%##%cssc=c*++++=++++::...... ...  . ..... `.     *@@@@@@@@@@@@@
+    </text>
+    <text x="0" y="520.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.60s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*c:=-=...    .:==----=-:`......  .     ..... `:       .s#s#%%@@@@@
+    </text>
+    <text x="0" y="533.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.64s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+=+*s%##%%*-++=+=-`:-``.....           . ... `:                .s%
+    </text>
+    <text x="0" y="546.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.68s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=c*ccc**-:.`:--=-:``.... .             .... :`                   
+    </text>
+    <text x="0" y="559.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.72s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+*=:...`..:::::```:...     .             ..:`                   
+    </text>
+    <text x="0" y="572.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.76s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*.....+*++ccc***+++---``     .                 ::.                   
+    </text>
+    <text x="0" y="585.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.80s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@@@@%c..    ....**ssscc***+=::`     .                  `:`                    
+    </text>
+    <text x="0" y="598.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.84s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@@@s..      ......`+**+=++=-``.                         .::`                    
+    </text>
+    <text x="0" y="611.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.88s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@@=.     .............```:``    =`          . .         .-:`                     
+    </text>
+    <text x="0" y="624.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.92s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@@`. .................  .....`%#*c*-`..   .. ...         =-`.                   ..
+    </text>
+    <text x="0" y="637.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@+. ................   ......:%#c-c*=-`...............  *+-`                   ...
+    </text>
+    <text x="0" y="650.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.00s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@@.. ..............     ......+%%c* cc*+-```..`.........c*=``                   ...
+    </text>
+    <text x="0" y="663.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.04s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@c.. ..............     ...`s+s%%#c* *c**+-:-``````````ss+:`                   ....
+    </text>
+    <text x="0" y="676.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.08s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@`.....***cc+++-` .    .sc*#s:+%%#c*= -**+--::`::::::`##c-``                .......
+    </text>
+    <text x="0" y="689.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.12s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@..#%c#s##%c##cscc*+. ##s*s#s+.%%#sc+- .+*+=----:----##s+:`.              . .......
+    </text>
+    <text x="0" y="702.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.16s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@@@@*c###sc==-=c##%###cc+=-===##c=`s%c***=  -++=--::---%%#c-``         .  .   ........
+    </text>
+    <text x="0" y="715.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.20s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@%*c###%%##ss***=::=*cccc+#ss*csc*=:sscss+c .:+++++=++%%#s+```         .  ....  ......
+    </text>
+    <text x="0" y="728.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.24s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@#**==++==#c##*ssssc+ . -+cccs: *cc+-`#sss*s* :=+++***%::`````.         .  .....  .....
+    </text>
+    <text x="0" y="741.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.28s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@c:`` :=c###css####cc*c*++c+`   .*cc*=-*#cc#s``=++*cc%=-:`:---.         .......  ...``.
+    </text>
+    <text x="0" y="754.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.32s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@@=s###sc++*--==+*ccscc+==::++:`  :ccc+= cs##s.:=+*cc::::-=+=:        .   ..... .....`.
+    </text>
+    <text x="0" y="767.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.36s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@c*ss#####s++***=:  .::==+==cssc-=-.`.`c**+.%#%#s.:-=**c-:=c:+::      . ........ .....`..
+    </text>
+    <text x="0" y="780.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.40s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@cc++===**++=##s***+=--++=-:=*s*` ```:````-+= %##ss.`:=+**#s+=-`      ..........  ..`.```.
+    </text>
+    <text x="0" y="793.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.44s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@%sc.``=-#css#c#%%###s*ssc*+-`.    .``````.``.#%%%s.`:-=%%#--:`      .........  ````.``..
+    </text>
+    <text x="0" y="806.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.48s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@@s###:#sc=+*csscccc*+=+s###*=:`...```....   #%%%%s..:c%%%:-``     .......... ..`..``.. 
+    </text>
+    <text x="0" y="819.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.52s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@@%#s#s+c-:``````::---=:-=cc*.:---:-::.``...   ##%%#c.`%%%s:-`      ......... ....``..   
+    </text>
+    <text x="0" y="832.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.56s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@#ss##%%##s++cc=-``...  .`--   .`-::-=-:::..  .s#s#s#=###``:-`      ........ ....```.    
+    </text>
+    <text x="0" y="845.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.60s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@cs*c*cccc+--cc*****sscc==::`....`-+---+=--::`.. s#%ss##`:```:-    .........  .......     
+    </text>
+    <text x="0" y="858.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.64s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@:```.....:cs=.-=+*cssc==-=**+-:--=*==**+==-`````#sss#=::```-+     ........ .......      
+    </text>
+    <text x="0" y="871.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.68s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@@**++**ccc*c*s#%#s#sc*s##=ccc*++++=**++c+--=-:::::`##=-:::::=-       .....  .......      
+    </text>
+    <text x="0" y="884.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.72s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@@++c==+++=====++++*+---**= `=+cc**cssss+=+=`:=--==--``-=:---:*.       . ..  .......       
+    </text>
+    <text x="0" y="897.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.76s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@@c+***+-`.   ..   .. ....    .`=+**c*cc*=+====-=*+++*=-- ::==-c         .    .......       
+    </text>
+    <text x="0" y="910.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.80s" dur="0.01s" fill="freeze" />
+      @@@@@@@@@*c*+**+:.  .......    . .````:---=-********c****+**+-:..`` ..:s        .        ...        
+    </text>
+    <text x="0" y="923.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.84s" dur="0.01s" fill="freeze" />
+      @@@@@@@@*s*c+++-:.  .. ..     . ... :--===++++++cccscsccc**:*`  = ` ``  `                           
+    </text>
+    <text x="0" y="936.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.01s" fill="freeze" />
+      @@@@@@@@*s*+==-`........  .      .   .:--=+==--=*ccsssc**+-%`.     :   .-                           
+    </text>
+    <text x="0" y="949.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.92s" dur="0.01s" fill="freeze" />
+      @@@@@@@*++==-::``..... . ......  . .  . .`:::::-=***=++css#s`   . .   .+ .-=               .        
+    </text>
+    <text x="0" y="962.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="2.96s" dur="0.01s" fill="freeze" />
+      @@@@@@%#+=----:``..   . . .       .   .  .  ..`:-+=-==cs##%-:`  -:. . .+.:-++-                      
+    </text>
+    <text x="0" y="975.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.00s" dur="0.01s" fill="freeze" />
+      @@@@@@`#.+=+==-::.. ..  :          .           ..`:---+cs .s``.`     .= ::-+*-                      
+    </text>
+    <text x="0" y="988.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.04s" dur="0.01s" fill="freeze" />
+      @@@@@:#%#.-++=--:`...  :-                            ::--`==. `  .--..```-+*+                       
+    </text>
+    <text x="0" y="1001.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.08s" dur="0.01s" fill="freeze" />
+      @@@@s.###.`-+==-::``.s:::                             . = -.-..-:. : .`:=+**.                       
+    </text>
+    <text x="0" y="1014.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.12s" dur="0.01s" fill="freeze" />
+      @@@@..s#%%..:===---%---:                                 .:.--:.*   +++**cc.                        
+    </text>
+    <text x="0" y="1027.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.16s" dur="0.01s" fill="freeze" />
+      @@@=.. ###cs%#`:--#+=-:.                                  ` .....``s*cccss.                         
+    </text>
+    <text x="0" y="1040.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.20s" dur="0.01s" fill="freeze" />
+      @@% .. ##csss***----*+`                .                    `:---s#c#ssss.                          
+    </text>
+    <text x="0" y="1053.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.24s" dur="0.01s" fill="freeze" />
+      @@.  . :#*cc**+===---:`               @@                    ---=%ss###s#-                   .       
+    </text>
+    <text x="0" y="1066.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.28s" dur="0.01s" fill="freeze" />
+      @s.. `  -css*+:``.`.                 #@@@                  s-=+#s##scss-                            
+    </text>
+    <text x="0" y="1079.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.32s" dur="0.01s" fill="freeze" />
+      @.. .. . :+cs*-`.`.                 .@@@@@.                %-%#s##sccc:                             
+    </text>
+    <text x="0" y="1092.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.36s" dur="0.01s" fill="freeze" />
+      @    .. .  =*-::`.`.                %@@@@@%                 #c#sssscc+                         ..   
+    </text>
+    <text x="0" y="1105.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.40s" dur="0.01s" fill="freeze" />
+      @     .  . ..`---:                 :@@@@@@@`                c+c*cc*cc                           ..  
+    </text>
+    <text x="0" y="1118.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.44s" dur="0.01s" fill="freeze" />
+      %         ...                      %@@@@@@-                  =-=*+--                   ..       ..  
+    </text>
+    <text x="0" y="1131.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.48s" dur="0.01s" fill="freeze" />
+      %     =                            @@@@@@@                      ::.                    ..      ...  
+    </text>
+    <text x="0" y="1144.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.52s" dur="0.01s" fill="freeze" />
+      %     .                           =@@@@@@%                   .   .                     .      .. .  
+    </text>
+    <text x="0" y="1157.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.56s" dur="0.01s" fill="freeze" />
+      @                                 %@@@@@@#                   .   .                     ..        .. 
+    </text>
+    <text x="0" y="1170.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.60s" dur="0.01s" fill="freeze" />
+      @.     .                         %@@@@@s                      .                         .        .. 
+    </text>
+    <text x="0" y="1183.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.64s" dur="0.01s" fill="freeze" />
+      @.                              .@@%=.                          .                                 . 
+    </text>
+    <text x="0" y="1196.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.68s" dur="0.01s" fill="freeze" />
+      @#                             ....                             ..`:.        .:                   . 
+    </text>
+    <text x="0" y="1209.0" class="ascii-text">
+      <animate attributeName="opacity" from="0" to="1" begin="3.72s" dur="0.01s" fill="freeze" />
+      @%                                                               ....`:-         . .              . 
+    </text>
+  </g>
+</svg>
