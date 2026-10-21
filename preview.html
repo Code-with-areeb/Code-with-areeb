@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Code-with-areeb profile preview</title>
+<style>
+  body { margin: 0; background: #010409; color: #e6edf3; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; padding: 32px 16px; }
+  main { max-width: 860px; margin: 0 auto; text-align: center; }
+  h3 { font-weight: 400; }
+  .art { width: 100%; height: auto; }
+  .identity { width: 100%; table-layout: fixed; border-collapse: collapse; }
+  .identity img { display: block; width: 100%; max-width: 100%; height: auto; }
+  .identity td { vertical-align: top; padding: 0; }
+  .identity td:first-child { width: 230px; }
+  .identity td:last-child { width: calc(100% - 230px); }
+  .stack { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 0; }
+  .stack img { height: 28px; width: auto; }
+  @media (max-width: 620px) {
+    body { padding: 20px 12px; }
+    .identity, .identity tbody, .identity tr, .identity td { display: block; width: 100%; min-width: 0; }
+    .identity td + td { margin-top: 16px; }
+    .identity td:last-child { width: 100%; }
+    .identity td:first-child img { width: 230px; margin: 0 auto; }
+  }
+</style>
+<main>
+  <h3><code>Code-with-areeb@github ~ $ ./contributions.sh</code></h3>
+  <img class="art" src="./contrib-heatmap.svg" alt="GitHub contribution heatmap" />
+  <br /><br />
+  <h3><code>Code-with-areeb@github ~ $ whoami</code></h3>
+  <table class="identity">
+    <tr>
+      <td><img src="./avi-ascii.svg" alt="ASCII portrait" /></td>
+      <td><img src="./info-card.svg" alt="Developer information card" /></td>
+    </tr>
+  </table>
+  <br />
+  <h3><code>Code-with-areeb@github ~ $ tech --stack</code></h3>
+  <p class="stack">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  </p>
+</main>

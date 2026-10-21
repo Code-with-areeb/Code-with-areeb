@@ -1,18 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="400" viewBox="0 0 490 400">
-  <style>
-    .bg { fill: #0d1117; rx: 6px; }
-    .text { font-family: monospace; font-size: 14px; fill: #c9d1d9; }
-    .key { fill: #58a6ff; font-weight: bold; }
-    .title { fill: #7fa127; font-weight: bold; }
-    .fade { opacity: 0; animation: fadeIn 0.5s forwards; }
-    @keyframes fadeIn { to { opacity: 1; } }
-  </style>
-  <rect width="100%" height="100%" class="bg"/>
-  <g class="text">
-    <text x="20" y="40" class="title fade" style="animation-delay: 0.1s">Code-with-areeb@github ~ $ neofetch</text>
-    <text x="20" y="80" class="fade" style="animation-delay: 0.3s"><tspan class="key">Name:</tspan> Areeb</text>
-    <text x="20" y="120" class="fade" style="animation-delay: 0.5s"><tspan class="key">Role:</tspan> Full-Stack Developer</text>
-    <text x="20" y="160" class="fade" style="animation-delay: 0.7s"><tspan class="key">Stack:</tspan> React, Node.js, Python, JavaScript</text>
-    <text x="20" y="200" class="fade" style="animation-delay: 0.9s"><tspan class="key">Location:</tspan> Pakistan</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620">
+<style>@keyframes lineIn {
+  from { opacity: 0; transform: translateX(-10px); }
+  to { opacity: 1; transform: translateX(0); }
+}</style>
+<defs><linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111722"/></linearGradient></defs>
+<rect width="100%" height="100%" rx="12" fill="url(#cardbg)" stroke="#30363d" stroke-width="1"/>
+<rect width="100%" height="30" rx="12" fill="#161b22"/>
+<rect y="18" width="100%" height="12" fill="#161b22"/>
+<circle cx="18" cy="15.0" r="5" fill="#ff5f56"/>
+<circle cx="34" cy="15.0" r="5" fill="#ffbd2e"/>
+<circle cx="50" cy="15.0" r="5" fill="#27c93f"/>
+<text x="490.0" y="20" text-anchor="middle" font-family="SF Mono, Menlo, Consolas, monospace" font-size="12" fill="#7d8590">Code-with-areeb@github: ~$ neofetch</text>
+<text x="30" y="84" style="opacity:0;animation:lineIn .45s ease 0.18s forwards" font-family="SF Mono, Menlo, Consolas, monospace" font-size="28" fill="#22d3ee">Areeb</text>
+<text x="30" y="116" style="opacity:0;animation:lineIn .45s ease 0.30s forwards" font-family="SF Mono, Menlo, Consolas, monospace" font-size="19" fill="#79c0ff">Full-Stack Developer  /  Pakistan</text>
+<line x1="30" y1="150" x2="950" y2="150" stroke="#30363d" stroke-width="1"/>
+<text x="30" y="172" style="opacity:0;animation:lineIn .45s ease 0.42s forwards" xml:space="preserve" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#7d8590">FOCUS       <tspan fill="#d29922" font-size="21">Building polished full-stack experiences</tspan></text>
+<text x="30" y="204" style="opacity:0;animation:lineIn .45s ease 0.54s forwards" xml:space="preserve" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#7d8590">PREVIOUS    <tspan fill="#79c0ff" font-size="21">Projects, experiments, and steady learning</tspan></text>
+<text x="30" y="236" style="opacity:0;animation:lineIn .45s ease 0.66s forwards" xml:space="preserve" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#7d8590">STACK       <tspan fill="#f778ba" font-size="21">React · Node.js · Python · JavaScript</tspan></text>
+<text x="30" y="276" style="opacity:0;animation:lineIn .45s ease 0.78s forwards" font-family="SF Mono, Menlo, Consolas, monospace" font-size="17" fill="#79c0ff">WHAT I ENJOY BUILDING</text>
+<text x="30" y="308" style="opacity:0;animation:lineIn .45s ease 0.90s forwards" xml:space="preserve" font-family="SF Mono, Menlo, Consolas, monospace" font-size="19" fill="#e6edf3"><tspan fill="#22d3ee">  &gt; </tspan>React and Node.js apps, from interface to API</text>
+<text x="30" y="340" style="opacity:0;animation:lineIn .45s ease 1.02s forwards" xml:space="preserve" font-family="SF Mono, Menlo, Consolas, monospace" font-size="19" fill="#e6edf3"><tspan fill="#22d3ee">  &gt; </tspan>Python automation and practical developer tools</text>
+<text x="30" y="372" style="opacity:0;animation:lineIn .45s ease 1.14s forwards" xml:space="preserve" font-family="SF Mono, Menlo, Consolas, monospace" font-size="19" fill="#e6edf3"><tspan fill="#22d3ee">  &gt; </tspan>Clean UX, useful features, and continuous learning</text>
+<text x="30" y="412" style="opacity:0;animation:lineIn .45s ease 1.26s forwards" font-family="SF Mono, Menlo, Consolas, monospace" font-size="15" fill="#7d8590">Code-with-areeb@github:~$  <tspan fill="#3fb950">ready to build</tspan></text>
 </svg>
