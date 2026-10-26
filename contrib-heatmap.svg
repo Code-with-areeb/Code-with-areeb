@@ -391,7 +391,8 @@
 <rect class="c" style="animation-delay:1.098s" x="817" y="110" width="12" height="12" rx="2" fill="#006d32"><title>2026-10-22: 9 contributions</title></rect>
 <rect class="c" style="animation-delay:1.143s" x="817" y="125" width="12" height="12" rx="2" fill="#0e4429"><title>2026-10-23: 1 contribution</title></rect>
 <rect class="c" style="animation-delay:1.188s" x="817" y="140" width="12" height="12" rx="2" fill="#0e4429"><title>2026-10-24: 1 contribution</title></rect>
-<rect class="c" style="animation-delay:0.936s" x="832" y="50" width="12" height="12" rx="2" fill="#161b22"><title>2026-10-25: 0 contributions</title></rect>
+<rect class="c" style="animation-delay:0.936s" x="832" y="50" width="12" height="12" rx="2" fill="#0e4429"><title>2026-10-25: 3 contributions</title></rect>
+<rect class="c" style="animation-delay:0.981s" x="832" y="65" width="12" height="12" rx="2" fill="#0e4429"><title>2026-10-26: 3 contributions</title></rect>
 <text x="683" y="171" font-family="SF Mono, Menlo, Consolas, monospace" font-size="10" fill="#7d8590">Less</text>
 <rect x="719" y="161" width="10" height="10" rx="2" fill="#161b22"/>
 <rect x="731" y="161" width="10" height="10" rx="2" fill="#0e4429"/>
@@ -401,8 +402,8 @@
 <rect x="779" y="161" width="10" height="10" rx="2" fill="#69f0a0"/>
 <text x="795" y="171" font-family="SF Mono, Menlo, Consolas, monospace" font-size="10" fill="#7d8590">More</text>
 <line x1="22" y1="187" x2="847" y2="187" stroke="#30363d" stroke-width="1"/>
-<text x="22" y="211" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13"><tspan fill="#39d353" font-weight="700">288</tspan><tspan fill="#e6edf3">  contributions in the last year</tspan></text>
-<text x="847" y="211" text-anchor="end" font-family="SF Mono, Menlo, Consolas, monospace" font-size="11" fill="#7d8590">2025-10-26 - 2026-10-25</text>
-<text x="22" y="235" font-family="SF Mono, Menlo, Consolas, monospace" font-size="12" fill="#7d8590">current streak <tspan fill="#22d3ee">4 days</tspan>  |  longest <tspan fill="#f2cc60">8 days</tspan></text>
+<text x="22" y="211" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13"><tspan fill="#39d353" font-weight="700">294</tspan><tspan fill="#e6edf3">  contributions in the last year</tspan></text>
+<text x="847" y="211" text-anchor="end" font-family="SF Mono, Menlo, Consolas, monospace" font-size="11" fill="#7d8590">2025-10-26 - 2026-10-26</text>
+<text x="22" y="235" font-family="SF Mono, Menlo, Consolas, monospace" font-size="12" fill="#7d8590">current streak <tspan fill="#22d3ee">6 days</tspan>  |  longest <tspan fill="#f2cc60">8 days</tspan></text>
 <text x="847" y="235" text-anchor="end" font-family="SF Mono, Menlo, Consolas, monospace" font-size="11" fill="#7d8590">best day 9 on 2026-10-22</text>
 </svg>
