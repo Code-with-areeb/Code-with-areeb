@@ -1,22 +1,22 @@
 {
   "username": "Code-with-areeb",
-  "generated_at": "2026-10-31T12:44:10Z",
+  "generated_at": "2026-11-01T13:35:10Z",
   "range": {
-    "start": "2025-10-26",
-    "end": "2026-10-31"
+    "start": "2025-11-02",
+    "end": "2026-11-01"
   },
-  "total_contributions": 301,
-  "active_days": 182,
+  "total_contributions": 296,
+  "active_days": 179,
   "avg_per_active_day": 1.7,
   "current_streak": {
-    "length": 10,
+    "length": 11,
     "start": "2026-10-21",
-    "end": "2026-10-30"
+    "end": "2026-10-31"
   },
   "longest_streak": {
-    "length": 10,
+    "length": 11,
     "start": "2026-10-21",
-    "end": "2026-10-30"
+    "end": "2026-10-31"
   },
   "best_day": {
     "date": "2026-10-22",
@@ -24,12 +24,8 @@
   },
   "monthly": [
     {
-      "month": "2025-10",
-      "total": 4
-    },
-    {
       "month": "2025-11",
-      "total": 16
+      "total": 14
     },
     {
       "month": "2025-12",
@@ -73,45 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 54
+      "total": 55
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-27",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-30",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-10-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-01",
-      "count": 2,
-      "level": 1
-    },
     {
       "date": "2025-11-02",
       "count": 0,
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-10-31",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-01",
       "count": 0,
       "level": 0
     }
